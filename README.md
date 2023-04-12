@@ -5,7 +5,18 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 - 🔭 Je travaille actuellement chez All In Appli
 - 🌐 Stack Actuelle : SQL - PHP - Scripts Bash/Shell - Javascript 
 
+# :hammer_and_wrench: Stack que maitrise :
+
 ### :hammer_and_wrench: Languages de programmation :
+
+### :hammer_and_wrench: Languages Web :
+
+### :hammer_and_wrench: Base de données :
+
+### :hammer_and_wrench: Logiciels :
+
+### :hammer_and_wrench: Frameworks :
+
 
 
 <!--
