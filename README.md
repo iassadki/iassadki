@@ -12,7 +12,6 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 ### :hammer_and_wrench: Languages Web :
 
 ### :hammer_and_wrench: Base de données : 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sql/sql-original-wordmark.svg" title="sql" alt="sql" width="40" height="40" />&nbsp;
 
 ### :hammer_and_wrench: Logiciels :
 
