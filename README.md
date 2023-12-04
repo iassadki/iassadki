@@ -7,15 +7,15 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 
 # :hammer_and_wrench: Stack que maitrise 
 
-### :hammer_and_wrench: Languages de programmation : :hammer_and_wrench:
+### Languages de programmation :
 
-### :hammer_and_wrench: Languages Web :
+### Languages Web :
 
-### :hammer_and_wrench: Base de données : 
+### Base de données : 
 
-### :hammer_and_wrench: Logiciels :
+### Logiciels :
 
-### :hammer_and_wrench: Frameworks :
+### Frameworks :
 
 
 
