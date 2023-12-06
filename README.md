@@ -4,7 +4,7 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 
 - 🔭 Je travaille actuellement chez All In Appli
 - 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
-- 🌐 Logiciels : `Wordpress`, `CiviCRM`, `FileZilla`, ...
+- 👨‍💻 Logiciels : `Wordpress`, `CiviCRM`, `FileZilla`, ...
 
 # :hammer_and_wrench: Stack que maitrise 
 
