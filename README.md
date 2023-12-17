@@ -16,7 +16,7 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 
 ##### Logiciels : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
 
-##### Frameworks : JS : `React & React-Native` `VueJS` `Hibernate` | JAVA : `JSF`, `JUNIT`
+##### Frameworks : JS : `React & React-Native` `VueJS` `Hibernate` JAVA : `JSF`, `JUNIT`
 
 <!--
 **IliasAssadki/IliasAssadki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
