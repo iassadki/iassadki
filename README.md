@@ -10,7 +10,7 @@ Etudiant en Licence Professionnelle Projet web & mobile, je suis un grand passio
 
 **Languages de programmation** : `HTML/CSS` `PHP` `JavaScript` `XML` 
 
-**Languages Web** : `JAVA` `Python` `C#` `UMLM` `SQL` `SCALA` 
+**Languages Web** : `JAVA` `Python` `C#` `UML` `SQL` `SCALA` 
 
 **Base de données** : `MySQL` `PostgreSQL` `NoSQL`
 
