@@ -8,7 +8,7 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 
 # :hammer_and_wrench: Stack que maitrise 
 
-##### Languages de programmation : `HTML/CSS` `PHP` `JavaScript` `XML` 
+#### Languages de programmation : `HTML/CSS` `PHP` `JavaScript` `XML` 
 
 ### Languages Web : `JAVA` `Python` `C#` `UMLM` `SQL` `SCALA` 
 
