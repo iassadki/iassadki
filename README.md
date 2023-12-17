@@ -8,15 +8,15 @@ Etudiant en 3eme année d'informatique (développement), je suis un grand passio
 
 # :hammer_and_wrench: Stack que maitrise 
 
-#### Languages de programmation : `HTML/CSS` `PHP` `JavaScript` `XML` 
+##### Languages de programmation : `HTML/CSS` `PHP` `JavaScript` `XML` 
 
-### Languages Web : `JAVA` `Python` `C#` `UMLM` `SQL` `SCALA` 
+##### Languages Web : `JAVA` `Python` `C#` `UMLM` `SQL` `SCALA` 
 
-### Base de données : `MySQL` `PostgreSQL` `NoSQL`
+##### Base de données : `MySQL` `PostgreSQL` `NoSQL`
 
-### Logiciels : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
+##### Logiciels : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
 
-### Frameworks : JS : `React & React-Native` `VueJS` `Hibernate`
+##### Frameworks : JS : `React & React-Native` `VueJS` `Hibernate`
                  JAVA : `JSF`, `JUNIT`
 
 <!--
