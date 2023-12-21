@@ -8,9 +8,9 @@ Etudiant en Licence Professionnelle Projet web & mobile, je suis un grand passio
 
 # :hammer_and_wrench: Stack que maitrise 
 
-**Languages de programmation** : `HTML/CSS` `PHP` `JavaScript` `XML` 
+**Languages web** : `HTML/CSS` `PHP` `JavaScript` `XML` 
 
-**Languages Web** : `JAVA` `Python` `C#` `UML` `SQL` `SCALA` 
+**Languages de programmation** : `JAVA` `Python` `C#` `UML` `SQL` `SCALA` 
 
 **Base de données** : `MySQL` `PostgreSQL` `NoSQL`
 
