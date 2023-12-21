@@ -16,9 +16,9 @@ Etudiant en Licence Professionnelle Projet web & mobile, je suis un grand passio
 
 **Logiciels** : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
 
-**Frameworks JS** : `React & React-Native` `VueJS` `Hibernate`
+**Frameworks JS** : `React & React-Native` `VueJS`
 
-**Frameworks JAVA** : `JSF`, `JUNIT`
+**Frameworks JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
 
 <!--
 **IliasAssadki/IliasAssadki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
