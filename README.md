@@ -20,6 +20,13 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 
 **Frameworks JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
 
+<!-- > Language usage -->
+# :hammer_and_wrench: Language usage 
+
+<div align="center">
+    <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=holic-x&theme=gruvbox_light&layout=compact"/>
+</div>
+
 <!--
 **IliasAssadki/IliasAssadki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
