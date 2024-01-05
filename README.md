@@ -23,7 +23,7 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 <!-- > Language usage -->
 # :hammer_and_wrench: Language usage 
 
-<div align="center">
+<div>
     <img height="200px" src="https://github-readme-stats-api-holic-x.vercel.app/api/top-langs/?username=iassadki&theme=gruvbox_light&layout=compact"/>
 </div>
 
