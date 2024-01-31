@@ -21,7 +21,7 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 **Frameworks** 
 
 - **PHP** : `Symfony`
-- **JS** : `React & React-Native` `VueJS`
+- **JS** : `React` `React-Native` `VueJS`
 - **JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
 
 <!-- > Language usage -->
