@@ -19,9 +19,10 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 **Logiciels** : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
 
 **Frameworks** 
-**PHP** : `Symfony`
-**JS** : `React & React-Native` `VueJS`
-**JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
+
+- **PHP** : `Symfony`
+- **JS** : `React & React-Native` `VueJS`
+- **JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
 
 <!-- > Language usage -->
 # :hammer_and_wrench: Language usage 
