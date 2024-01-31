@@ -8,7 +8,7 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 
 # :hammer_and_wrench: Stack que maitrise 
 
-**Languages web** : `HTML/CSS` `PHP` `JavaScript` `XML` 
+**Languages web** : `HTML` `CSS` `PHP` `JavaScript`
 
 **Languages de programmation** : `JAVA` `Python` `C#`
 
@@ -16,7 +16,7 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 
 **Modélisation** : `UML` `Merise`
 
-**Logiciels** : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
+**Logiciels** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`   
 
 **Frameworks** 
 
