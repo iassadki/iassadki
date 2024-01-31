@@ -4,7 +4,8 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 
 - 🔭 Je travaille actuellement chez ALL IN APPLI
 - 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
-- 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin` 
+- 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin`
+
 
 ## :hammer_and_wrench: Stack que maitrise 
 
@@ -24,10 +25,12 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 - **JS** : `React` `React-Native` `VueJS`
 - **JAVA** : `JSF/JPA` `JUNIT` `Hibernate`
 
+
 ## :earth_africa: Me trouver sur le Web :
 
 <!-- - Me découvrir au sein de mon [Portfolio](https://fawzy-elsam.netlify.app/) -->
 - Suivre mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias/)
+
 
 ## :hammer_and_wrench: Language usage 
 
