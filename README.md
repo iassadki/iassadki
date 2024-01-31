@@ -10,15 +10,18 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 
 **Languages web** : `HTML/CSS` `PHP` `JavaScript` `XML` 
 
-**Languages de programmation** : `JAVA` `Python` `C#` `UML` `SQL` `SCALA` 
+**Languages de programmation** : `JAVA` `Python` `C#`
 
-**Base de données** : `MySQL` `PostgreSQL` `NoSQL`
+**Base de données** : `SQL` `NoSQL`
+
+**Modélisation** : `UML` `Merise`
 
 **Logiciels** : `FTP` `Office` `XAMPP.etc` `phpmyadmin - MongoDBCompass` `Git` `NodeJS`   
 
-**Frameworks JS** : `React & React-Native` `VueJS`
-
-**Frameworks JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
+**Frameworks** 
+**PHP** : `Symfony`
+**JS** : `React & React-Native` `VueJS`
+**JAVA** : `JSF/JPA`, `JUNIT`, `Hibernate`
 
 <!-- > Language usage -->
 # :hammer_and_wrench: Language usage 
