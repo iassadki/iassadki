@@ -3,8 +3,8 @@
 Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université, je suis passionné d'informatique et je fais tout pour monter en compétences dans mon domaine tout les jours. Mon objectif est de devenir développeur d'applications web et mobile.
 
 - 🔭 Je travaille actuellement chez ALL IN APPLI
-- 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`, `Wordpress`
-- 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk` 
+- 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
+- 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin` 
 
 # :hammer_and_wrench: Stack que maitrise 
 
