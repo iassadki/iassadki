@@ -24,7 +24,7 @@ Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université,
 - **JS** : `React` `React-Native` `VueJS`
 - **JAVA** : `JSF/JPA` `JUNIT` `Hibernate`
 
-# Me trouver sur le Web 🌍 :
+# :earth_africa: Me trouver sur le Web :
 
 <!-- - Me découvrir au sein de mon [Portfolio](https://fawzy-elsam.netlify.app/) -->
 - Suivre mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias/)
