@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Bienvenue dans mon monde GitHub ! Explorez mes projets variés et découvrez mon travail en développement web. Plongez dans mon univers numérique, créatif et unique.
+Explorez mes projets variés et découvrez mon travail en développement web. Plongez dans mon univers numérique, créatif et unique.
 
 - 🔭 Je travaille actuellement chez ALL IN APPLI
 - 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
