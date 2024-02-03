@@ -1,6 +1,6 @@
 # Bienvenue sur mon GitHub 👋
 
-Etudiant en Licence Professionnelle Projet web & mobile à Sorbonne Université, je suis passionné d'informatique et je fais tout pour monter en compétences dans mon domaine tout les jours. Mon objectif est de devenir développeur d'applications web et mobile.
+Bienvenue dans mon monde GitHub ! Explorez mes projets variés et découvrez mon travail en développement web. Plongez dans mon univers numérique, créatif et unique.
 
 - 🔭 Je travaille actuellement chez ALL IN APPLI
 - 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
