@@ -28,8 +28,8 @@ Explorez mes projets variés et découvrez mon travail en développement web. Pl
 
 ## :earth_africa: Me trouver sur le Web :
 
-<!-- - Me découvrir au sein de mon [Portfolio](https://fawzy-elsam.netlify.app/) -->
-- Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki/)
+- Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio)
+- Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki)
 
 
 ## :hammer_and_wrench: Language usage 
