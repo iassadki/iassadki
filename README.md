@@ -1,10 +1,10 @@
 # Bienvenue sur mon GitHub 👋
 
-Explorez mes projets variés et découvrez mon travail en développement web. Plongez dans mon univers numérique, créatif et unique.
+Explore my diverse projects and discover my work in web development. Immerse yourself in my digital, creative, and unique universe.
 
-- 🔭 Je travaille actuellement chez ALL IN APPLI
-- 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
-- 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin`
+- 🔭 I'm currently working at ALL IN APPLI
+- 🌐 Actual Stack : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
+- 👨‍💻 Softwares : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin`
 
 ## :hammer_and_wrench: My Tech Stack
 
@@ -25,12 +25,10 @@ Explorez mes projets variés et découvrez mon travail en développement web. Pl
 
 ## :earth_africa: Find me on the Web
 
-- Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio)
-- Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki)
-
-- <a href="https://iassadki.alwaysdata.net/portfolio"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-- <a href="https://www.linkedin.com/in/ilias-assadki"><img src="https://img.shields.io/badge/Linkedin-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
-
+<!-- - Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio) -->
+<!-- - Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki) -->
+<a href="https://www.linkedin.com/in/ilias-assadki"><img src="https://img.shields.io/badge/Linkedin-#A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
+<a href="https://iassadki.alwaysdata.net/portfolio"><img src="https://img.shields.io/badge/IA-#A66C2?style=for-the-badge&logo=ia&logoColor=white" alt="Portfolio" /></a>&nbsp;
 
 ## :hammer_and_wrench: Language usage 
 
