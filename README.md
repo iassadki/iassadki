@@ -6,30 +6,30 @@ Explorez mes projets variés et découvrez mon travail en développement web. Pl
 - 🌐 Stack Actuelle : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
 - 👨‍💻 Logiciels : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin`
 
+## :hammer_and_wrench: My Tech Stack
 
-## :hammer_and_wrench: Stack que maitrise 
+**Front-end Development** : `HTML` `CSS` `JavaScript`
 
-**Languages web** : `HTML` `CSS` `PHP` `JavaScript`
-
-**Languages de programmation** : `JAVA` `Python` `C#`
-
-**Base de données** : `SQL` `NoSQL`
-
-**Modélisation** : `UML` `Merise`
-
-**Logiciels** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`   
+**Back-end Development** : `JAVA` `Python` `PHP`
 
 **Frameworks** 
-
 - **PHP** : `Symfony`
-- **JS** : `React` `React-Native` `VueJS`
+- **JS** : `Svelte` `React` `React-Native` `VueJS`
 - **JAVA** : `JSF/JPA` `JUNIT` `Hibernate`
 
+**Databases** : `SQL` `NoSQL`
 
-## :earth_africa: Me trouver sur le Web :
+**Modelling** : `UML` `Merise` 
+
+**Softwares** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`    
+
+## :earth_africa: Find me on the Web
 
 - Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio)
 - Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki)
+
+- <a href="https://iassadki.alwaysdata.net/portfolio"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+- <a href="https://www.linkedin.com/in/ilias-assadki"><img src="https://img.shields.io/badge/Linkedin-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
 
 
 ## :hammer_and_wrench: Language usage 
@@ -39,6 +39,11 @@ Explorez mes projets variés et découvrez mon travail en développement web. Pl
 </div>
 
 <!--
+<a href="https://juliaundeutsch.com/"><img src="https://img.shields.io/badge/LINKTREE-CC6699?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://codepen.io/YuriDevAT"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>&nbsp;
+
+<img src="https://img.shields.io/badge/-javascript-F7DF1E?&style=for-the-badge&logo=javascript&logoColor=black" />
+
 **IliasAssadki/IliasAssadki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
