@@ -16,7 +16,9 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 **Modelling** : `UML` `Merise` 
 
-**Softwares** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`
+**Softwares** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS` `Notion` `Figma`
+
+**Scripting & Automation** : `Bash`
 
 ### Frameworks
 - **PHP** : `Symfony`
