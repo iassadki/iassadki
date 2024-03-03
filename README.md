@@ -12,16 +12,16 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 **Back-end Development** : `JAVA` `Python` `PHP`
 
-**Frameworks** 
-- **PHP** : `Symfony`
-- **JS** : `Svelte` `React` `React-Native` `VueJS`
-- **JAVA** : `JSF/JPA` `JUNIT` `Hibernate`
-
 **Databases** : `SQL` `NoSQL`
 
 **Modelling** : `UML` `Merise` 
 
-**Softwares** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`    
+**Softwares** : `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS`
+
+### Frameworks
+- **PHP** : `Symfony`
+- **JS** : `Svelte` `React` `React-Native` `VueJS`
+- **JAVA** : `JSF/JPA` `JUNIT` `Hibernate`
 
 ## :earth_africa: Find me on the Web
 
