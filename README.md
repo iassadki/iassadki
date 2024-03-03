@@ -10,7 +10,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 **Front-end Development** : `HTML` `CSS` `JavaScript`
 
-**Back-end Development** : `JAVA` `Python` `PHP`
+**Back-end Development** : `JAVA` `Python` `PHP` `TypeScript`
 
 **Databases** : `SQL` `NoSQL`
 
