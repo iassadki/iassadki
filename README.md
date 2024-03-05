@@ -31,6 +31,8 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <!-- - Suivez mon actualité sur [Linkedin](https://www.linkedin.com/in/ilias-assadki) -->
 <a href="https://www.linkedin.com/in/ilias-assadki"><img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
 <a href="https://iassadki.alwaysdata.net/portfolio"><img src="https://img.shields.io/badge/My Portfolio-4F5D95?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.canva.com/design/DAF5rdcUT3U/nKZvQXerIG475UIGXyYpCw/edit?utm_content=DAF5rdcUT3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/My Resume (French)-91ACD3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp;
+<a href="https://www.canva.com/design/DAF-qnBKzVM/ZCZNvYirbMldd7eEAJu89Q/edit?utm_content=DAF-qnBKzVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/My Resume (English)-91ACD3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp;
 
 ## :hammer_and_wrench: Language usage 
 
