@@ -11,7 +11,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 #### Front-end Development
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 
-#### Back-end Development** : `JAVA` `Python` `PHP` `TypeScript`
+#### Back-end Development : `JAVA` `Python` `PHP` `TypeScript`
 
 **Databases** : `SQL` `NoSQL`
 
