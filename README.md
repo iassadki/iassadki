@@ -9,48 +9,48 @@ Explore my diverse projects and discover my work in web development. Immerse you
 ## :hammer_and_wrench: My Tech Stack
 
 ### Front-end Development
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br /> <br />
 
 ### Back-end Development
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
-<br /> <br />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
+<br />
 
 ### Databases
-<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
-<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-<br /> <br />
+<img style="padding-right:10px;" align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
+<img style="padding-right:10px;" align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<br />
                     
 ### Modelling
-<img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
+<img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
 <br /> <br />
          
 ### Softwares 
 <!-- `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS` `Notion` `Figma` `Wordpress` -->
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />          
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<br /> <br />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />          
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+<br />
 
 ### Scripting
-<img align="left" width="25px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
-<br /> <br />
+<img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
+<br />
 
 ### Frameworks
-<img align="left" width="25px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
-<br /> <br />
+<img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
+<br />
           
 ## :earth_africa: Find me on the Web
 <!-- - Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio) -->
