@@ -48,7 +48,8 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 ### Frameworks
 ##### PHP 
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" />
+<!-- <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" /> -->
+`Symfony` 
 <br />
 
 ##### JS
