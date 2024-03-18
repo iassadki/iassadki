@@ -2,7 +2,7 @@
 
 Explore my diverse projects and discover my work in web development. Immerse yourself in my digital, creative, and unique universe.
 
-- 🔭 I'm currently working at ALL IN APPLI
+- 🔭 I'm currently working at **ALL IN APPLI**
 - 🌐 Actual Stack : `SQL`, `PHP`, `Shell/Bash`, `Javascript`
 - 👨‍💻 Tools : `Wordpress`, `Drupal`, `CiviCRM`, `FileZilla`, `Plesk`, `PhpMyAdmin`
 
