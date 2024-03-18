@@ -41,7 +41,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <br /> <br />
 
 ### Scripting
-<img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />          
+<img align="left" width="25px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
 <br /> <br />
 
 ### Frameworks
