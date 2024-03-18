@@ -12,7 +12,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<br /> <br />
+<br />
 
 ### Back-end Development
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
