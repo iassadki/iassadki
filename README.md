@@ -8,30 +8,29 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 ## :hammer_and_wrench: My Tech Stack
 
-#### Front-end Development
+### Front-end Development
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <br />
 
-#### Back-end Development
+### Back-end Development
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />          
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <br />
 
-#### Databases
+### Databases
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <br /> <br />
                     
-#### Modelling
+### Modelling
 <img align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
 <br /> <br />
-
-          
-#### Softwares 
+         
+### Softwares 
 <!-- `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS` `Notion` `Figma` `Wordpress` -->
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />          
@@ -41,23 +40,23 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <br />
 
-#### Scripting
+### Scripting
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" />          
 <br />
 
 ### Frameworks
-##### PHP 
+#### PHP 
 <!-- <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original-wordmark.svg" /> -->
 `Symfony` 
 <br />
 
-##### JS
+#### JS
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <br />
 
-##### JAVA
+#### JAVA
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
 <br />
           
