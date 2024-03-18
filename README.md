@@ -9,9 +9,10 @@ Explore my diverse projects and discover my work in web development. Immerse you
 ## :hammer_and_wrench: My Tech Stack
 
 **Front-end Development**
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-html5-plain colored"></i>
-<i class="devicon-html5-plain colored"></i>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+
 
 
 
