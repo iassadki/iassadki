@@ -72,9 +72,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
     <img src="https://img.shields.io/badge/My%20Portfolio-3B5998?style=for-the-badge&logo=earthmeridian&logoColor=white" alt="My Portfolio" />
 </a>&nbsp;
 
-<a href="https://www.canva.com/design/DAF5rdcUT3U/nKZvQXerIG475UIGXyYpCw/edit?utm_content=DAF5rdcUT3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton">
-    <img src="https://img.shields.io/badge/My Resume (French)-6F7CA3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
-</a>&nbsp;
+<a href="https://www.canva.com/design/DAF5rdcUT3U/nKZvQXerIG475UIGXyYpCw/edit?utm_content=DAF5rdcUT3U&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/My Resume (French)-6F7CA3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp;
 <!-- <a href="https://www.canva.com/design/DAF-qnBKzVM/ZCZNvYirbMldd7eEAJu89Q/edit?utm_content=DAF-qnBKzVM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton"><img src="https://img.shields.io/badge/My Resume (English)-6F7CA3?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" /></a>&nbsp; -->
 
 ## :hammer_and_wrench: Language usage 
