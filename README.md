@@ -21,18 +21,18 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <br />
 
-**Databases**
+#### Databases
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
 <br />
                     
-**Modelling** 
+#### Modelling
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
 <!-- `Merise` -->
 <br />
 
           
-**Softwares** : 
+#### Softwares 
 <!-- `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS` `Notion` `Figma` `Wordpress` -->
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
 <img align="left" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original-wordmark.svg" />
