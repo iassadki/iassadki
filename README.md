@@ -42,10 +42,6 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
 <br /> <br />
 
-### Scripting
-<img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
-<br /> <br />
-
 ### Frameworks
 <img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
 <img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
