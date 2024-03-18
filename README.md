@@ -38,11 +38,11 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<br />
+<br /> <br />
 
 ### Scripting
 <img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
-<br />
+<br /> <br />
 
 ### Frameworks
 <img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
@@ -50,7 +50,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original-wordmark.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
-<br />
+<br /> <br />
           
 ## :earth_africa: Find me on the Web
 <!-- - Me découvrir au sein de mon [Portfolio](https://iassadki.alwaysdata.net/portfolio) -->
