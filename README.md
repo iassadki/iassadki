@@ -68,10 +68,6 @@ Explore my diverse projects and discover my work in web development. Immerse you
     <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" />
 </a>&nbsp;
 
-<a href="https://iassadki.alwaysdata.net/portfolio">
-    <img src="https://img.shields.io/badge/My Portfolio-4F5D95?style=for-the-badge&logo=portfolio&logoColor=white" alt="Portfolio" />
-</a>&nbsp;
-
 <a href="https://www.linkedin.com/in/ilias-assadki">
     <img src="https://img.shields.io/badge/My%20Portfolio-3B5998?style=for-the-badge&logo=earthmeridian&logoColor=white" alt="My Portfolio" />
 </a>&nbsp;
