@@ -8,7 +8,12 @@ Explore my diverse projects and discover my work in web development. Immerse you
 
 ## :hammer_and_wrench: My Tech Stack
 
-**Front-end Development** : `HTML` `CSS` `JavaScript`
+**Front-end Development**
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-html5-plain colored"></i>
+<i class="devicon-html5-plain colored"></i>
+
+
 
 **Back-end Development** : `JAVA` `Python` `PHP` `TypeScript`
 
