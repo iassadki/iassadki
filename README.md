@@ -21,6 +21,14 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />          
 <br /> <br />
 
+### Frameworks
+<img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
+<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
+<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
+<br /> <br />
+
 ### Databases
 <img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 <img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
@@ -40,14 +48,6 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
-<br /> <br />
-
-### Frameworks
-<img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
-<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />          
-<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
-<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
 <br /> <br />
           
 ## :earth_africa: Find me on the Web
