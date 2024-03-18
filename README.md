@@ -24,7 +24,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 ### Databases
 <img style="padding-right:10px;" align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" />
 <img style="padding-right:10px;" align="left" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
-<br />
+<br /> <br />
                     
 ### Modelling
 <img align="left" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original-wordmark.svg" />
