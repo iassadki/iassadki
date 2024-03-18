@@ -27,7 +27,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <br /> <br />
 
 ### Modelling
-<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />          
+<img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />          
 <br /> <br />
          
 ### Tools 
