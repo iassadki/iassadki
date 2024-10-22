@@ -23,7 +23,8 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img style="padding-right:10px;" align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hibernate/hibernate-plain-wordmark.svg" />   
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /> 
-<img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />          
+<img style="padding-right:10px;" align="left" width="30px" src="https://devicon-website.vercel.app/api/symfony/original.svg?color=%23FFFFFF" />    
+<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 <br /> <br />
 
 ### Databases
@@ -36,14 +37,11 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <br /> <br />
          
 ### Tools 
-<!-- `FileZilla` `Apache` `PhpMyAdmin` `MongoDBCompass` `Git` `NodeJS` `Notion` `Figma` `Wordpress` -->
-<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/filezilla/filezilla-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />          
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" />
-<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
-<img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
+<!-- <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" /> -->
 <img style="padding-right:10px;" align="left" width="26px" src="https://devicon-website.vercel.app/api/bash/plain.svg?color=%23FFFFFF" />          
 <br /> <br />
           
