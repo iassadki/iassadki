@@ -40,7 +40,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img src="https://img.shields.io/badge/DDD-Domain--Driven_Design-00599C?style=flat-square" />
 <img src="https://img.shields.io/badge/TDD-Test--Driven_Development-22C55E?style=flat-square" />
 <img src="https://img.shields.io/badge/OWASP-Security-FF6B6B?style=flat-square" />
-<br /> <br />
+<br />
 
 #### Tools
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
@@ -57,7 +57,7 @@ Explore my diverse projects and discover my work in web development. Immerse you
 #### Methods
 <img src="https://img.shields.io/badge/Agile-Scrum-0052CC?style=flat-square&logo=scrumworx&logoColor=white" />
 <img src="https://img.shields.io/badge/SAFe-Scaled_Agile-5C2D91?style=flat-square" />
-<br /> <br />
+<br />
 
 ## :hammer_and_wrench: Language usage 
 
