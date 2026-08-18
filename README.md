@@ -40,7 +40,6 @@ Explore my diverse projects and discover my work in web development. Immerse you
 <img src="https://img.shields.io/badge/DDD-Domain--Driven_Design-00599C?style=flat-square" />
 <img src="https://img.shields.io/badge/TDD-Test--Driven_Development-22C55E?style=flat-square" />
 <img src="https://img.shields.io/badge/OWASP-Security-FF6B6B?style=flat-square" />
-<br />
 
 #### Tools
 <img style="padding-right:10px;" align="left" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" />
